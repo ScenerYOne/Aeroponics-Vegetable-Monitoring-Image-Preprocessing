@@ -2,8 +2,9 @@
 
 Image preprocessing pipeline for Task 2 (Variety Identification) using perspective transformation to convert Cam5 top-down views into angled views matching Cam6 perspective.
 
-###  Model Training & Evaluation (This Repository)  
+##  Model Training & Evaluation  
 **Aeroponics Vegetable Monitoring – Model Training (YOLOv8)**
+
 👉 [ScenerYOne/Aeroponics-Vegetable-Monitoring-Method-3-Image-Preprocessing](ScenerYOne/Aeroponics-Vegetable-Monitoring-Method-3-Image-Preprocessing)
 
 - Multi-dataset integration
