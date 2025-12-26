@@ -2,13 +2,12 @@
 
 Image preprocessing pipeline for Task 2 (Variety Identification) using perspective transformation to convert Cam5 top-down views into angled views matching Cam6 perspective.
 
-
 ## 🔗 Connected Projects (End-to-End AI Pipeline)
 
 This project is part of a complete AI workflow, covering data preparation, model training, and deployment.
 
 ### 1️⃣ Image Preprocessing & Dataset Generation  
-[ScenerYOne/Aeroponics-Vegetable-Monitoring-Method-3-Image-Preprocessing](https://github.com/ScenerYOne/Aeroponics-Vegetable-Monitoring-Method-3-Image-Preprocessing)
+[ScenerYOne/Aeroponics-Vegetable-Monitoring-Image-Preprocessing](https://github.com/ScenerYOne/Aeroponics-Vegetable-Monitoring-Image-Preprocessing.git)
 
 - Perspective Transformation for camera correction  
 - Image standardization  
@@ -18,7 +17,7 @@ This project is part of a complete AI workflow, covering data preparation, model
 ---
 
 ### 2️⃣ Model Training & Evaluation  
-[ScenerYOne/Aeroponics-Vegetable-Monitoring-Model-Training](https://github.com/ScenerYOne/Aeroponics-Vegetable-Monitoring-Model-Training)
+[ScenerYOne/Aeroponics-Vegetable-Monitoring-Model-Training-Evaluation](https://github.com/ScenerYOne/Aeroponics-Vegetable-Monitoring-Model-Training-Evaluation)
 
 - Dataset cleaning & normalization  
 - Multi-dataset integration  
@@ -29,7 +28,7 @@ This project is part of a complete AI workflow, covering data preparation, model
 ---
 
 ### 3️⃣ Model Deployment Platform (This Repository)  
-[ScenerYOne/AI-Model-Deployment-Platform](https://github.com/ScenerYOne/AI-Model-Deployment-Platform)
+[ScenerYOne/Aeroponics-Vegetable-Monitoring-Model-Deployment-Platform](https://github.com/ScenerYOne/Aeroponics-Vegetable-Monitoring-Model-Deployment-Platform)
 
 - Web-based YOLO model testing  
 - FastAPI backend for inference  
